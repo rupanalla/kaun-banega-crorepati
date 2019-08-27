@@ -1,0 +1,8 @@
+
+
+your first question--
+ 	Where is fort William located ?
+    		1.Chennai
+    		2.Goa
+    		3.Kolkata
+    		4.Mysore
